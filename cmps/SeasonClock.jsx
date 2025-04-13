@@ -29,7 +29,7 @@ export function SeasonClock() {
 
 
     function stopClock() {
-        clearInterval(timerId)
+        clearInterval(timerId.current)
         timerId.current = null
     }
 
