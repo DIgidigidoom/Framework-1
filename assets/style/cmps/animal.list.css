@@ -1,0 +1,9 @@
+
+.animals-table th{
+    border: 1px solid black;
+    padding: 5px;
+}
+.animals-table td{
+    border: 1px solid black;
+    padding: 5px;
+}
